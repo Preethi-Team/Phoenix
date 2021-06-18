@@ -19,7 +19,7 @@ An app that connects people who wants to share their excess food resources with 
 
 # Demo video
 
-#[![Grab Scrap](https://raw.githubusercontent.com/anonymous-me236/Grab_Scrap/main/GRAB_SCRAP.jpg)](https://youtu.be/-NrSJHKX2-o "GRAB SCRAP")
+[![ ]()]( " ")
 
 # The architecture
 
