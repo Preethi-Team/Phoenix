@@ -10,7 +10,6 @@ An app that connects people who wants to share their excess food resources with 
   - [The architecture](#the-architecture)
   - [Long description](#long-description)
   - [Project roadmap](#project-roadmap)
-  - [Built with](#built-with)
   - [Authors](#authors)
 
 # Short description
@@ -41,11 +40,10 @@ So, When excess foodstuffs are still safe to eat, they can be given to the hungr
 
 ![Roadmap](https://github.com/Preethi-Team/Phoenix/blob/main/Road-Map.jpg)
 
-## Built with
-
-- [IBM Cloudant](https://cloud.ibm.com/catalog?search=cloudant#search_results) - The NoSQL database used
-- [Maven](https://maven.apache.org/) - Dependency management
 
 ## Authors
-
-
+- [**_Preethi Devaraj_**](https://github.com/PreethiDevaraj)
+- [**_Nandhini R_**](https://github.com/NandhiniR08)
+- [**_RAGAVI_**](https://github.com/RAGAVI01)
+- [**_Prajna_**](https://github.com/Prajna2407)
+- [**_preethi_**](https://github.com/Preethi2019)
