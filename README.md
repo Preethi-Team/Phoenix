@@ -18,7 +18,7 @@ An app that connects people who wants to share their excess food resources with 
 
 # Demo video
 
-[![Food D Bug]()](https://www.youtube.com/watch?v=S3Qpst0m21Y "Food D Bug")
+[![Food D Bug](https://github.com/Preethi-Team/Phoenix/blob/main/Food%20D%20Bug.jpg)](https://www.youtube.com/watch?v=S3Qpst0m21Y "Food D Bug")
 
 # The architecture
 
